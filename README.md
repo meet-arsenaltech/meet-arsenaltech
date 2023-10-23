@@ -38,15 +38,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-   
------
-<div align="center">
-<h3 align="left">- Github stats:</h3> 
-
-[![](https://github-readme-stats.vercel.app/api?username=meet-arsenaltech&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=meet-arsenaltech&theme=material-palenight)](https://github.com/Elanza-48)
-</div> 
-<br />
 -----
 
 Credits: [Meet Patel](https://github.com/meet-arsenaltech)
