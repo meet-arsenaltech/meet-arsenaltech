@@ -1,6 +1,6 @@
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://meet-arsenaltech.github.io/meetportfolio/">Meet Patel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/meet-arsenaltech">Meet Patel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>  
 <div align="center">
 <h3>💻 Full Stack Software Engineer | 🛸 India</h3>
